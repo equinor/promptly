@@ -15,7 +15,7 @@
 "Players start with two 'cards', each representing a real historical event with a date. Subsequent turns force the player to correctly place new events in their timeline, twisting or sticking when correct. First to 10 events."
 "Each player rolls 5 dice, then 'bid' quantities of values based on their hand with everyone else's."
 "Players take turns rolling dice and earn points by selecting certain combinations, with the option to re-roll and continue accumulating points or stopping and banking their score."
-"Draw a beetle, prompted by the roll of a die:\n1 - thorax\n2 - head\n3 - leg (requires thorax)\n4 - eye (requires head)\n5 - antenna (requires head)\n6 - abdomen
+"Draw a beetle, prompted by the roll of a die:\n1 - thorax\n2 - head\n3 - leg (requires thorax)\n4 - eye (requires head)\n5 - antenna (requires head)\n6 - abdomen"
 "Take turns setting and playing a quiz game. Try starting with multiple choice."
 "Guess the country from the emoji(s)."
 "Player 1 names a movie, player 2 names an actor in the movie, then player 1 names another movie that actor was in, and so on."
