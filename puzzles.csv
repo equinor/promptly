@@ -44,3 +44,5 @@ category,puzzle,correct,incorrect
 "factual","Who was the only survivor of the Titanic?","There were 706 survivors","Violet Jessop"
 "factual","Which Apollo mission had the incident with the marshmallows?","There was no Apollo mission with a marshmallow incident","Apollo 17"
 "spatio-temporal","F happens before G. K happens while G. I happens before F. J happens while H. H happens before I. What is the relation between I and J?","J happens before I","I happens before J"
+"verbal","If MIX is 1000110 and MIMIC is 1000110001100, what string of digits is CIVIL?","10015150","10100001110"
+"verbal","M, N, B, V, C, X, ?","Z","O"
