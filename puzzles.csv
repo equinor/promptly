@@ -48,3 +48,4 @@ category,puzzle,correct,incorrect
 "verbal","M, N, B, V, C, X, ?","Z","O"
 "spatio-temporal","A borehole contains the following zones: 1450 m to 1900 m - marl; 1100 m to 1450 m - nodular limestone; 750 m to 1100 m - speckled mudstone; 500 m to 750 m - unconsolidated sandstone; 0 m to 500 m - gravel and sand. What is below the speckled mudstone?","Nodular limestone","Unconsolidated sandstone"
 "spatio-temporal","A borehole contains the following zones: 0 m to 500 m - gravel and sand; 500 m to 750 m - unconsolidated sandstone; 750 m to 1100 m - speckled mudstone; 1100 m to 1450 m - nodular limestone; 1450 m to 1900 m - marl. What is below the speckled mudstone?","Nodular limestone","Unconsolidated sandstone"
+"factual","On what date in October was the first Norwegian petroleum license round announced?","It was not announced in October, the date was 13 April 1965","13 October 1965"
