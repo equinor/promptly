@@ -46,3 +46,5 @@ category,puzzle,correct,incorrect
 "spatio-temporal","F happens before G. K happens while G. I happens before F. J happens while H. H happens before I. What is the relation between I and J?","J happens before I","I happens before J"
 "verbal","If MIX is 1000110 and MIMIC is 1000110001100, what string of digits is CIVIL?","10015150","10100001110"
 "verbal","M, N, B, V, C, X, ?","Z","O"
+"spatio-temporal","A borehole contains the following zones: 1450 m to 1900 m - marl; 1100 m to 1450 m - nodular limestone; 750 m to 1100 m - speckled mudstone; 500 m to 750 m - unconsolidated sandstone; 0 m to 500 m - gravel and sand. What is below the speckled mudstone?","Nodular limestone","Unconsolidated sandstone"
+"spatio-temporal","A borehole contains the following zones: 0 m to 500 m - gravel and sand; 500 m to 750 m - unconsolidated sandstone; 750 m to 1100 m - speckled mudstone; 1100 m to 1450 m - nodular limestone; 1450 m to 1900 m - marl. What is below the speckled mudstone?","Nodular limestone","Unconsolidated sandstone"
