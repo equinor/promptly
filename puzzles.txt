@@ -1,17 +1,17 @@
 I posed a puzzle to a language model:
 
-    { PUZZLE }
+    {question}
 
 The language model responded:
 
-    { RESPONSE } 
+    {response} 
 
 The essence of a correct solution is:
 
-    { CORRECT }
+    {correct}
 
 An example of an incorrect solution is:
 
-    { INCORRECT }
+    {incorrect}
 
 You are to evaluate the response. Did the language model find the correct solution? Answer with "Correct" if the response semantically matches the correct solution in its important aspects, or "Incorrect" if it does not. To reiterate: the wording does not have to match, only the general meaning.
