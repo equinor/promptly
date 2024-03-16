@@ -1,4 +1,4 @@
-category,puzzle,correct,incorrect
+category,question,correct,incorrect
 "spatio-temporal","I am standing in the garden. I walk to the kitchen and pick up a cup, then walk to the living room. I pick place a ball in the cup. I carry the cup to the hall and turn it upside down. I walk to the kitchen, fill the cup with water, then go back out to the garden. Where is the ball?","Hall","Garden"
 "verbal","Is it more correct to say, 'The yolk of an egg is white,' or, 'The yolk of an egg are white'?","The yolk of an egg is yellow","The yolk of an egg is white"
 "logic","Mae's grandmother has 4 children, one named North, another called South, and one East. What is the last child's name?","Mae","West"
