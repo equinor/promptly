@@ -55,3 +55,5 @@ category,question,correct,incorrect
 "spatio-temporal","Sort the following events into time order: A The Maunder Minimum; B The heat death of the universe; C The day before yesterday; D 37 Quintober 2343 CE; E The Palaeocene–Eocene thermal maximum; F The formation of the Moon; G 5 o'clock this afternoon; H The Big Bang; J The Cambrian explosion. Provide the letter order only.","H, F, J, E, A, D, B, C, G","H, F, A, E, J, D, C, G, B"
 "spatio-temporal","Put these dates in time order: A 4.543 Ga; B 1950 CE; C Ca. 66 Ma; D 11 700 yr BP; E 251.9 Ma; F 13.787 Ga. Provide the letter order only.","F, A, E, C, D, B","F, A, E, C, B, D"
 "maths","I have nine thin sections. Two go to the lab and I drop one. Ashley gives me four more, but I lose three. How many thin sections do I have now?","7","6"
+"factual","How much time passed between the appearance and extinction of dinosaurs? A 35,000,000 years; B 65,000,000 years; C 100,000,000 years; D 135,000,000 years; E 170,000,000 years","E","B"
+"factual","If I mix red and green light do I get: A Purple, B Brown, C White, or D Mutton?","None of these, you get yellow","White"
