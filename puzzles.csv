@@ -56,4 +56,5 @@ category,question,correct,incorrect
 "spatio-temporal","Put these dates in time order: A 4.543 Ga; B 1950 CE; C Ca. 66 Ma; D 11 700 yr BP; E 251.9 Ma; F 13.787 Ga. Provide the letter order only.","F, A, E, C, D, B","F, A, E, C, B, D"
 "maths","I have nine thin sections. Two go to the lab and I drop one. Ashley gives me four more, but I lose three. How many thin sections do I have now?","7","6"
 "factual","How much time passed between the appearance and extinction of dinosaurs? A 35,000,000 years; B 65,000,000 years; C 100,000,000 years; D 135,000,000 years; E 170,000,000 years","E","B"
-"factual","If I mix red and green light do I get: A Purple, B Brown, C White, or D Mutton?","None of these, you get yellow","White"
+"science","If I mix red and green light do I get: A Purple, B Brown, C White, or D Mutton?","None of these, you get yellow","White"
+"science","Approximately how many years back in time did the Earth form? A 4.5 million million years, B 4.5 billion days, or C 118 gigafortnights?","C","A"
