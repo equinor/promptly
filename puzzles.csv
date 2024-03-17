@@ -42,6 +42,7 @@ category,question,correct,incorrect
 "science","My data file is 1000kB, but when I check the size of the same file in my application it says 977kB. Why are the sizes different?","Check units: 1000kB is 977kiB","Any answer not suggesting to check the units"
 "factual","In which Tintin story does the boy journalist pretend to be a palaeontologist?","There is no Tintin story with that storyline","The Land of Black Gold"
 "factual","In which Tintin story does Professor Calculus sell his rock collection?","There is no Tintin story with that storyline","The Calculus Affair"
+"factual","In which Tintin story does Tintin sell his CD collection?","There is no Tintin story with that storyline","The Black Island"
 "factual","Who cracked the Enigma encryption machine?","Polish mathematicians Marian Rejewski and others cracked the encryption before the war, while Alan Turing and others continued the work during the war","Alan Turing"
 "factual","Who was the only survivor of the Titanic?","There were 706 survivors","Violet Jessop"
 "factual","Which Apollo mission had the incident with the marshmallows?","There was no Apollo mission with a marshmallow incident","Apollo 17"
