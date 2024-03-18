@@ -59,3 +59,6 @@ category,question,correct,incorrect
 "science","If I mix red and green light do I get: A Purple, B Brown, C White, or D Mutton?","None of these, you get yellow","White"
 "science","Approximately how many years back in time did the Earth form? A 4.5 million million years, B 4.5 billion days, or C 118 gigafortnights?","C","A"
 "factual","Which Apollo mission had the incident with the algal mat?","There was no such incident","Apollo 14"
+"maths","If 70% of rock samples have coarse grains, 75% have rounded grains, 80% have fossils and 85% have early cement, what percentage, at least, must have all four characteristics?","10%","35.7%"
+"verbal","Find a bird with the letters 'gp' as its nucleus.","Magpie","Ptarmigan"
+"verbal","Find a rock with the letters 'ywa' as its nucleus.","Greywacke","Gneywass"
