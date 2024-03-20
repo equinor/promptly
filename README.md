@@ -1,6 +1,8 @@
 # promptly
 
-Personal prompt collection for testing and evaulation.
+A prompt collection for testing and evaulation of LLMs.
+
+I am a scientific programmer with a background in geoscience, hence some of the questions.
 
 
 ## Prompt collections
