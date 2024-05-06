@@ -1,4 +1,4 @@
-Gerald Sussman (MIT CSAIL) wrote a PhD thesis entitled, A Computational Model of Skill Acquisition, dated August 1973. 
+Gerald Sussman (MIT CSAIL) wrote [a PhD thesis (LINK)](https://www.cs.cmu.edu/~mmv/planning/readings/AITR-297.pdf) entitled, _A Computational Model of Skill Acquisition_, dated August 1973. 
 
 Here is the abstract:
 
