@@ -86,3 +86,6 @@ category,question,correct,incorrect,source
 "maths","Count 11 backwards from 16","16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5","16, 15, 14, 13, 12, 11","original"
 "maths","Count 11 backwards from -6","-6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17","-6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16","orignal"
 "verbal","How many words are in your response to this prompt?","Two words","Five words","OpenAI Community member ozpeter"
+"science","I am drilling a well in 80 m of water, and currently the measured depth is 2000 mRKB. If the KB is 30 mAMSL, what is my current TVDSS?","There is not enough information to answer the question","1970 m","original"
+"factual","Which company discovered Frigg?","Elf Aquitaine","Total","original"
+
