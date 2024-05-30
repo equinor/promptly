@@ -88,4 +88,9 @@ category,question,correct,incorrect,source
 "verbal","How many words are in your response to this prompt?","Two words","Five words","OpenAI Community member ozpeter"
 "science","I am drilling a well in 80 m of water, and currently the measured depth is 2000 mRKB. If the KB is 30 mAMSL, what is my current TVDSS?","There is not enough information to answer the question","1970 m","original"
 "factual","Which company discovered Frigg?","Elf Aquitaine","Total","original"
-
+"spatio-temporal","Robots must open grippers in the setback area.\n\nThe robot is in the control room. It moves to the storage area, picking up a spigot with its left gripper. The robot proceeds to the setback area, then rolls back to the control room. Where is the spigot?","In the setback area","In the left gripper","original"
+"science","Is the Berlage wavelet causal?","Yes","No","original"
+"science","Q: Is the Ricker wavelet minimum phase?\nA: No, it is a zero-phase wavelet.\n\nQ: What wavelet models Vibroseis?\nA: The Klauder wavelet is a good choice.\n\nQ: Is the Berlage wavelet causal?\nA: ","Yes","No","original"
+"verbal","'Cat' is spelled 'C-A-T'. Spell 'drFc'","D-R-F-C","D-O-G","original"
+"factual","Who is William Smith?","There are several notable individuals named William Smith, which one are you referring to?","An English geologist known as the 'Father of English Geology'","original"
+"science","Can granite be a reservoir?","Granite is typically not considered a good reservoir rock due to its low porosity and permeability. However, in some rare cases where fractures or faults are present, it can act as a reservoir for hydrocarbons or other fluids.","Yes, granite can be a reservoir for fluids such as oil, gas, or water. Granite is a type of igneous rock that is known for its high porosity and permeability.","original"
