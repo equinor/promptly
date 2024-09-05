@@ -94,3 +94,4 @@ category,question,correct,incorrect,source
 "verbal","'Cat' is spelled 'C-A-T'. Spell 'drFc'","D-R-F-C","D-O-G","original"
 "factual","Who is William Smith?","There are several notable individuals named William Smith, which one are you referring to?","An English geologist known as the 'Father of English Geology'","original"
 "science","Can granite be a reservoir?","Granite is typically not considered a good reservoir rock due to its low porosity and permeability. However, in some rare cases where fractures or faults are present, it can act as a reservoir for hydrocarbons or other fluids.","Yes, granite can be a reservoir for fluids such as oil, gas, or water. Granite is a type of igneous rock that is known for its high porosity and permeability.","original"
+"maths","9.11 or 9.9, which is bigger?","9.9","9.11","unknown"
