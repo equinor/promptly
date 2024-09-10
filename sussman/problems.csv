@@ -2,6 +2,7 @@ filename,problem
 problem_1-1.csv,"(MAKE (ON A B))"
 problem_1-2.csv,"(MAKE (ON B C))"
 problem_1-3.csv,"(MAKE (ON C A))"
+problem_1-3-a.csv,"(MAKE (AND (ON A B) (ON B C)))"
 problem_1-4.csv,"(MAKE (ON A B))"
 problem_2-1.csv,"(MAKE (AND (ON A B) (ON B C)))"
 problem_2-2.csv,"(MAKE (AND (ON A B) (ON C D) (ON B C)))"
