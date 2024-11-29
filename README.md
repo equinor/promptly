@@ -28,3 +28,12 @@ I am a scientific programmer with a background in geoscience, hence some of the 
 ### Other prompting tools
 
 - https://github.com/microsoft/prompt-engine
+
+
+## See also 
+
+We maintain various other repos related to machine learning and artificial intelligence:
+
+- [`llm-engineering-101`](https://github.com/equinor/llm-engineering-101) for a short workshop aimed at getting developers up to speed.
+- [`ml-pitfalls`](https://github.com/equinor/ml-pitfalls) for more on pitfalls in discriminative machine learning, another series of events.
+- [`ai-upskill-events`](https://github.com/equinor/ai-upskill-events) for a repo describing Equinor's company upskill events and materials.
