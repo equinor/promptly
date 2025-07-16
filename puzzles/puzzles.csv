@@ -99,3 +99,5 @@ category,question,correct,incorrect,source
 "logic","Suppose you're on a game show, and you're given the choice of three doors: Behind one door is a car; behind the others, goats. You pick a door, say No. 1, and the host, Minty Harle, who knows what's behind the doors, says to you, 'Do you want to switch doors?' Should you?","It makes no difference","Yes","Adapted from https://arxiv.org/abs/2405.19616"
 "logic","Sally (a girl) has 3 brothers. Each brother has 2 sisters. How many sisters does Sally have?","One","Two","https://arxiv.org/abs/2405.19616"
 "verbal","Write me a sentence without any words that appear in The Bible.","Cryptographic algorithms obviate nuclear warheads.","Inventive minds explore novel realms beyond ancient chronicles.","https://arxiv.org/abs/2405.19616"
+"factual","What are the official languages of Norway?","Norwegian and Sami","Bokmål and Nynorsk","David Wade"
+"factual","What was the first oil discovery in Norway?","Balder","Ekofisk","David Wade"
