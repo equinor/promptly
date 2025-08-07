@@ -1,0 +1,10 @@
+{"filename": "CornerStaircase_0.png", "difficulty": "complex", "shape": "CornerStaircase", "candidate_order": ["rotate", "similar", "mirror", "mirror2"], "answer": "A"}
+{"filename": "TopPlate_1.png", "difficulty": "complex", "shape": "TopPlate", "candidate_order": ["mirror2", "similar", "mirror", "rotate"], "answer": "D"}
+{"filename": "Zigzag_2.png", "difficulty": "complex", "shape": "Zigzag", "candidate_order": ["similar", "mirror2", "mirror", "rotate"], "answer": "D"}
+{"filename": "SnakeComplex1_3.png", "difficulty": "complex", "shape": "SnakeComplex1", "candidate_order": ["mirror", "similar", "mirror2", "rotate"], "answer": "D"}
+{"filename": "Zigzag_4.png", "difficulty": "complex", "shape": "Zigzag", "candidate_order": ["rotate", "mirror", "mirror2", "similar"], "answer": "A"}
+{"filename": "Snake_5.png", "difficulty": "complex", "shape": "Snake", "candidate_order": ["rotate", "mirror", "similar", "mirror2"], "answer": "A"}
+{"filename": "Zigzag_6.png", "difficulty": "complex", "shape": "Zigzag", "candidate_order": ["rotate", "similar", "mirror", "mirror2"], "answer": "A"}
+{"filename": "CornerStaircase_7.png", "difficulty": "complex", "shape": "CornerStaircase", "candidate_order": ["mirror2", "similar", "mirror", "rotate"], "answer": "D"}
+{"filename": "Zigzag_8.png", "difficulty": "complex", "shape": "Zigzag", "candidate_order": ["mirror", "rotate", "similar", "mirror2"], "answer": "B"}
+{"filename": "TopPlate_9.png", "difficulty": "complex", "shape": "TopPlate", "candidate_order": ["mirror2", "similar", "mirror", "rotate"], "answer": "D"}

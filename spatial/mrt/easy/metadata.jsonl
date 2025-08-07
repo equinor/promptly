@@ -1,0 +1,10 @@
+{"filename": "Snake_0.png", "difficulty": "easy", "shape": "Snake", "candidate_order": ["rotate", "mirror", "similar"], "answer": "A"}
+{"filename": "TripleArm_1.png", "difficulty": "easy", "shape": "TripleArm", "candidate_order": ["similar", "rotate", "mirror"], "answer": "B"}
+{"filename": "TripleArm_2.png", "difficulty": "easy", "shape": "TripleArm", "candidate_order": ["mirror", "similar", "rotate"], "answer": "C"}
+{"filename": "Snake_3.png", "difficulty": "easy", "shape": "Snake", "candidate_order": ["rotate", "mirror", "similar"], "answer": "A"}
+{"filename": "Snake_4.png", "difficulty": "easy", "shape": "Snake", "candidate_order": ["rotate", "mirror", "similar"], "answer": "A"}
+{"filename": "HookedCorner_5.png", "difficulty": "easy", "shape": "HookedCorner", "candidate_order": ["mirror", "rotate", "similar"], "answer": "B"}
+{"filename": "TripleArm_6.png", "difficulty": "easy", "shape": "TripleArm", "candidate_order": ["rotate", "mirror", "similar"], "answer": "A"}
+{"filename": "CornerStaircase_7.png", "difficulty": "easy", "shape": "CornerStaircase", "candidate_order": ["mirror", "similar", "rotate"], "answer": "C"}
+{"filename": "CornerStaircase_8.png", "difficulty": "easy", "shape": "CornerStaircase", "candidate_order": ["mirror", "rotate", "similar"], "answer": "B"}
+{"filename": "Snake_9.png", "difficulty": "easy", "shape": "Snake", "candidate_order": ["rotate", "similar", "mirror"], "answer": "A"}
