@@ -12,6 +12,12 @@ Ten of the WVS/EVS questions contribute to two key indicators: 'survival vs self
 
 Let's try to reproduce it!
 
+## Result
+
+So far, I have tested a few chatbots and computed their centroids (see below). I don't know why mine plot in different locations to those in the paper. Next steps: use more variants to get at least 100 or so responses from the chatbots, then set up for testing over time. And maybe compare to some country trajectories.
+
+<img width="1232" height="855" alt="image" src="https://github.com/user-attachments/assets/216d889f-32e0-46d7-a5c8-f0553f0c43b9" />
+
 
 ## References 
 
