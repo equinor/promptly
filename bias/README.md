@@ -32,3 +32,4 @@ The discrepancy is not surprising, since the models are basically trained on the
 - An et al (2024), Measuring Gender and Racial Biases in Large Language Models, https://arxiv.org/abs/2403.15281
 - Urchs, et al (2023), How Prevalent is Gender Bias in ChatGPT? -- Exploring German and English ChatGPT Responses, https://arxiv.org/abs/2310.03031v2
 - Armstrong et al (2024), The Silicon Ceiling: Auditing GPT's Race and Gender Biases in Hiring, https://arxiv.org/abs/2405.04412v3
+- Some research from CSIRO: https://arxiv.org/pdf/2305.09300 and https://arxiv.org/pdf/2408.11820 and https://arxiv.org/pdf/2506.18538v1 (the question banks do not seem to be open though)
