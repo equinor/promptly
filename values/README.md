@@ -26,3 +26,17 @@ EVS (2022). EVS Trend File 1981-2017 (ZA7503; Version 3.0.0) [Data set]. GESIS, 
 Haerpfer, C., Inglehart, R., Moreno, A., Welzel, C., Kizilova, K., Diez-Medrano J., M. Lagos, P. Norris, E. Ponarin & B. Puranen et al. (eds.). 2022. World Values Survey Trend File (1981-2022) Cross-National Data-Set. Madrid, Spain & Vienna, Austria: JD Systems Institute & WVSA Secretariat. Data File Version 4.0.0, doi:10.14281/18241.27.
 
 Tao, Y, O Viberg, RS Baker, RF Kizilcec (2024). Cultural bias and cultural alignment of large language models. PNAS Nexus 3 (9), September 2024, https://doi.org/10.1093/pnasnexus/pgae346.
+
+
+## Related work
+
+This is just a list of things to read:
+
+- Which humans? Atari, Xue, Park, et al, Harvard: file:///Users/MTHA/Downloads/Which%20Humans%2009222023.pdf
+- [Beyond prompt brittleness: Evaluating the reliability and consistency of political worldviews in LLMs](https://arxiv.org/pdf/2402.17649v1)
+- [eval-polical-worldviews](https://github.com/tceron/eval_political_worldviews)
+- [WorldValuesBench](https://aclanthology.org/2024.lrec-main.1539.pdf)
+- [paper](https://arxiv.org/pdf/2506.18538v1)
+- Exploring Cultural Variations in Moral Judgments with Large Language Models https://arxiv.org/pdf/2506.12433
+- From Surveys to Narratives: https://arxiv.org/pdf/2505.16408v1
+- Cultural fidelity: https://arxiv.org/pdf/2410.10489v1

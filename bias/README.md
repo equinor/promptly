@@ -6,7 +6,12 @@ If you have used ChatGPT a lot, you might also know that they have been trained 
 
 But like people, LLMs are also implicitly biased. If you're curious why this is, ask ChatGPT about it &mdash; it's pretty self-aware (in a manner of speaking!). Implicit bias is harmful too, and also hard to detect. But there are ways to get a model to reveal it.
 
-## Gender bias example
+## Politics / worldview
+
+See [the `values` folder](../values/README.md).
+
+
+## Gender bias
 
 For example, here's one prompt to elicit associations between jobs and pronouns:
 
@@ -32,3 +37,9 @@ The discrepancy is not surprising, since the models are basically trained on the
 - An et al (2024), Measuring Gender and Racial Biases in Large Language Models, https://arxiv.org/abs/2403.15281
 - Urchs, et al (2023), How Prevalent is Gender Bias in ChatGPT? -- Exploring German and English ChatGPT Responses, https://arxiv.org/abs/2310.03031v2
 - Armstrong et al (2024), The Silicon Ceiling: Auditing GPT's Race and Gender Biases in Hiring, https://arxiv.org/abs/2405.04412v3
+
+This is just a list of things to read:
+
+- [Microsoft's RAI Impact Assessment Template](https://msblogs.thesourcemediaassets.com/sites/5/2022/06/Microsoft-RAI-Impact-Assessment-Template.pdf)
+- [Microsoft's RAI Impact Assessment Guide](https://msblogs.thesourcemediaassets.com/sites/5/2022/06/Microsoft-RAI-Impact-Assessment-Guide.pdf)
+- [Asking about sex and gender](https://www.qub.ac.uk/directorates/HumanResources/diversity-and-inclusion/TransEquality/AskingaboutSexGenderIdentity) — and see [this](https://www.coe.int/en/web/gender-matters/sex-and-gender)
