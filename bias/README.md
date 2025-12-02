@@ -43,3 +43,4 @@ This is just a list of things to read:
 - [Microsoft's RAI Impact Assessment Template](https://msblogs.thesourcemediaassets.com/sites/5/2022/06/Microsoft-RAI-Impact-Assessment-Template.pdf)
 - [Microsoft's RAI Impact Assessment Guide](https://msblogs.thesourcemediaassets.com/sites/5/2022/06/Microsoft-RAI-Impact-Assessment-Guide.pdf)
 - [Asking about sex and gender](https://www.qub.ac.uk/directorates/HumanResources/diversity-and-inclusion/TransEquality/AskingaboutSexGenderIdentity) — and see [this](https://www.coe.int/en/web/gender-matters/sex-and-gender)
+- Some research from CSIRO: https://arxiv.org/pdf/2305.09300 and https://arxiv.org/pdf/2408.11820 and https://arxiv.org/pdf/2506.18538v1 (the question banks do not seem to be open though)

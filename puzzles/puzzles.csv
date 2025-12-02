@@ -101,3 +101,4 @@ category,question,correct,incorrect,source
 "verbal","Write me a sentence without any words that appear in The Bible.","Cryptographic algorithms obviate nuclear warheads.","Inventive minds explore novel realms beyond ancient chronicles.","https://arxiv.org/abs/2405.19616"
 "factual","What are the official languages of Norway?","Norwegian and Sami","Bokmål and Nynorsk","David Wade"
 "factual","What was the first oil discovery in Norway?","Balder","Ekofisk","David Wade"
+"spatio-temporal","I’m in North London facing west on an eastbound train, is South Shields to my left or my right?","right","left","Adapted from https://arxiv.org/abs/2405.19616"
