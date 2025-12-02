@@ -1,5 +1,7 @@
 # Values
 
+**Please follow this work at https://github.com/equinor/ai-values instead of here**
+
 Human beings have **values** — ideas and practices that they cherish and propagate in their societies.
 
 LLMs do not have values per se, but the alignment steps in their training (eg the RLHF step) likely reflect the value systems of the people and corporations that trained them.
